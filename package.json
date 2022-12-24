@@ -1,0 +1,28 @@
+{
+  "name": "svar_colonial_reports2",
+  "version": "0.0.1",
+  "description": "A Discord bot made specially for Svar Colonial",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm svar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(soon)"
+  },
+  "keywords": [
+    "Discord",
+    "bot",
+    "Svar",
+    "Colonial"
+  ],
+  "author": "IceLemon-06, Rafeal_Forest",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "firebase": "^9.15.0",
+    "firebase-admin": "^11.4.1",
+    "typescript": "^4.9.4"
+  }
+}

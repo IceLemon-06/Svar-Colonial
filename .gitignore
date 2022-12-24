@@ -1,0 +1,5 @@
+node_modules
+.env
+fireconfig.json
+rafeal-db-firebase.json
+FirebaseReference.json
